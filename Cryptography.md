@@ -1,3 +1,4 @@
+---------------
 What is Cryptography? 
 ● Cryptography is the science of secret, or hidden writing 
 ● Crypto => Hidden/Secret | Graphy => Writing 
@@ -41,3 +42,4 @@ Types of asymmetric enc.
    Python for cryptography 
    ● We can use programming to do tools that can do our own encryption and encoding hash type
    Obfuscation: In software development, obfuscation is the act of creating source or machine code that is difficult for humans or computers to understand.
+   
